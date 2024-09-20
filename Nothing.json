@@ -1,31 +1,31 @@
 {
     "name": "Vendetta Nothing 1.0",
-    "description": "An Amoled theme to match the Nothing OS color palette",
+    "description": "An Amoled theme with Nothing OS color palette.",
   "authors": [
       {
-         "name": "Beanman"
+         "name": "Beanman",
       }
     ],
     "semanticColors": {
         "ACTIVITY_CARD_BACKGROUND": [
-            "#D71921 ",
+            "#fb4934",
             "#9d0006"
         ],
         "BACKGROUND_FLOATING": [
-            "#1B1B1D",
-            "#1B1B1D"
+            "#00201f",
+            "#00201f"
         ],
         "BACKGROUND_MENTIONED": [
-            "#D71921 ",
-            "#D71921 "
+            "#0038375a",
+            "#0038375a"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#D71921 ",
-            "#D71921 "
+            "#0038375a",
+            "#0038375a"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#D71921 ",
-            "#D71921 "
+            "#0038375a",
+            "#0038375a"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#000000",
@@ -36,24 +36,24 @@
             "#060607"
         ],
         "BACKGROUND_ACCENT": [
-            "#D71921 ",
-            "#D71921 "
+            "#0f7577",
+            "#0f7577"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#D71921 ",
-            "#D71921 "
+            "#15CFD29a",
+            "#15CFD29a"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#D71921 ",
-            "#D71921 "
+            "#006a68",
+            "#006a68"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#D71921 ",
-            "#D71921 "
+            "#0038375a",
+            "#0038375a"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#D71921 ",
-            "#D71921 "
+            "#15CFD26a",
+            "#15CFD26a"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#000000",
@@ -64,244 +64,244 @@
             "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#1B1B1D",
-            "#1B1B1D"
+            "#00201f",
+            "#00201f"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#1B1B1D",
-            "#1B1B1D"
+            "#00201f",
+            "#00201f"
         ],
         "BACKGROUND_TERTIARY": [
-            "#000000",
-            "#000000"
+            "#060607",
+            "#060607"
         ],
         "CHANNELS_DEFAULT": [
-            "#1B1B1D",
-            "#1B1B1D"			
+            "#617b7a",
+            "#617b7a"			
         ],
         "CHANNEL_ICON": [
-            "#D71921 ",
-            "#D71921 "
+            "#006a68",
+            "#006a68"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
-            "#D71921 ",
-            "#D71921 "
+            "#9cf0f0",
+            "#9cf0f0"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#1B1B1D",
-            "#1B1B1D"
+            "#111214",
+            "#111214"
         ],
         "CHAT_BACKGROUND": [
             "#000000",
             "#000000"
         ],
         "CHAT_BORDER": [
-            "#1B1B1D",
-            "#1B1B1D"
+            "#00201f",
+            "#00201f"
         ],
         "DEPRECATED_CARD_BG": [
-            "#D71921 ",
-            "#D71921 "
+            "#3bb8ba40",
+            "#9cf0f040"
         ],
         "DEPRECATED_CARD_EDITABLE_BG": [
-            "#D71921 ",
-            "#D71921 "
+            "#3bb8ba4d",
+            "#9cf0f04d"
         ],
         "DEPRECATED_QUICKSWITCHER_INPUT_BACKGROUND": [
-            "#D71921 ",
-            "#D71921 "
+            "#3bb8ba",
+            "#9cf0f0"
         ],
         "DEPRECATED_QUICKSWITCHER_INPUT_PLACEHOLDER": [
-            "#D71921 ",
-            "#D71921 "
+            "#3bb8ba",
+            "#9cf0f0"
         ],
         "DEPRECATED_STORE_BG": [
-            "#D71921 ",
-            "#D71921 "
+            "#affffe",
+            "#affffe"
         ],
         "DEPRECATED_TEXT_INPUT_BG": [
-            "#D71921 ",
-            "#D71921 "
+            "#3bb8ba",
+            "#9cf0f0"
         ],
         "DEPRECATED_TEXT_INPUT_BORDER": [
             "#0000004d",
             "#0000004d"
         ],
         "DEPRECATED_TEXT_INPUT_BORDER_DISABLED": [
-            "#D71921 ",
-            "#D71921 "
+            "#3bb8ba",
+            "#9cf0f0"
         ],
         "DEPRECATED_TEXT_INPUT_BORDER_HOVER": [
-            "#000000",
-            "#000000"
+            "#020202",
+            "#020202"
         ],
         "DEPRECATED_TEXT_INPUT_PREFIX": [
-            "#D71921 ",
-            "#D71921 "
+            "#3bb8ba",
+            "#9cf0f0"
         ],
         "DISPLAY_BANNER_OVERFLOW_BACKGROUND": [
-            "#A71921 ",
-            "#A71921 "
+            "#00383780",
+            "#00383780"
         ],
         "ELEVATION_HIGH": [
-            "#D71921 ",
-            "#D71921 "
+            "#3bb8ba",
+            "#9cf0f0"
         ],
         "ELEVATION_LOW": [
-            "#D71921 ",
-            "#D71921 "
+            "#3bb8ba",
+            "#9cf0f0"
         ],
         "ELEVATION_MEDIUM": [
-            "#D71921 ",
-            "#D71921 "
+            "#3bb8ba",
+            "#9cf0f0"
         ],
         "ELEVATION_STROKE": [
-            "#D71921 ",
-            "#D71921 "
+            "#3bb8ba",
+            "#9cf0f0"
         ],
         "FOCUS_PRIMARY": [
-            "#D71921 ",
-            "#D71921 "
+            "#3bb8ba",
+            "#9cf0f0"
         ],
         "FORUM_POST_EXTRA_MEDIA_COUNT_CONTAINER_BACKGROUND": [
-            "#1B1B1Dcc",
-            "#1B1B1Dcc"
+            "#00201fcc",
+            "#00201fcc"
         ],
         "FORUM_POST_TAG_BACKGROUND": [
-            "#1B1B1De6",
-            "#1B1B1De6"
+            "#00201fe6",
+            "#00201fe6"
         ],
         "GUILD_HEADER_TEXT_SHADOW": [
-            "#D71921 ",
-            "#D71921 "
+            "#3bb8ba",
+            "#9cf0f0"
         ],
         "HEADER_PRIMARY": [
-            "#D71921 ",
-            "#D71921 "
+            "#affffe",
+            "#affffe"
         ],
         "HEADER_SECONDARY": [
-            "#D71921 ",
-            "#D71921 "
+            "#489e9d",
+            "#489e9d"
         ],
         "INFO_DANGER_BACKGROUND": [
-            "#D71921 ",
-            "#D71921 "
+            "#3bb8ba",
+            "#9cf0f0"
         ],
         "INFO_DANGER_FOREGROUND": [
-            "#D71921 ",
-            "#D71921 "
+            "#248282",
+            "#248282"
         ],
         "INFO_DANGER_TEXT": [
-            "#D71921 ",
+            "#fb4934",
             "#9d0006"
         ],
         "INFO_HELP_BACKGROUND": [
-            "#D71921 ",
-            "#D71921 "
+            "#3bb8ba",
+            "#9cf0f0"
         ],
         "INFO_HELP_FOREGROUND": [
-            "#1B1B1D",
-            "#1B1B1D"
+            "#00201f",
+            "#00201f"
         ],
         "INFO_HELP_TEXT": [
-            "#D71921 ",
-            "#D71921 "
+            "#affffe",
+            "#affffe"
         ],
         "INFO_POSITIVE_BACKGROUND": [
-            "#D71921 ",
-            "#D71921 "
+            "#3bb8ba",
+            "#9cf0f0"
         ],
         "INFO_POSITIVE_FOREGROUND": [
-            "#1B1B1D",
-            "#1B1B1D"
+            "#00201f",
+            "#00201f"
         ],
         "INFO_POSITIVE_TEXT": [
-            "#D71921 ",
-            "#D71921 "
+            "#affffe",
+            "#affffe"
         ],
         "INFO_WARNING_BACKGROUND": [
-            "#D71921 ",
-            "#D71921 "
+            "#3bb8ba",
+            "#9cf0f0"
         ],
         "INFO_WARNING_FOREGROUND": [
             "#000000",
             "#000000"
         ],
         "INFO_WARNING_TEXT": [
-            "#D71921 ",
-            "#D71921 "
+            "#affffe",
+            "#affffe"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#D71921 ",
-            "#D71921 "
+            "#affffe",
+            "#affffe"
         ],
         "INTERACTIVE_HOVER": [
-            "#30302E",
-            "#30302E"
+            "#bac2de",
+            "#bac2de"
         ],
         "INTERACTIVE_MUTED": [
-            "#30302E",
-            "#30302E"
+            "#324c4b",
+            "#324c4b"
         ],
         "INTERACTIVE_NORMAL": [
-            "#D71921 ",
-            "#D71921 "
+            "#9cf0f0",
+            "#9cf0f0"
         ],
         "LOGO_PRIMARY": [
-            "#A71921 ",
-            "#D71921 "
+            "#83a598",
+            "#076678"
         ],
         "MODAL_FOOTER_BACKGROUND": [
-            "#1B1B1D",
-            "#1B1B1D"
+            "#00201f",
+            "#00201f"
         ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-            "#1B1B1D",
-            "#1B1B1D"
+            "#00201f",
+            "#00201f"
         ],
         "REDESIGN_BUTTON_SECONDARY_ALT_PRESSED_BACKGROUND": [
-            "#1B1B1D",
-            "#1B1B1D"
+            "#00201f",
+            "#00201f"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#30302E",
-            "#30302E"
+            "#0038375a",
+            "#0038375a"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#000000",
-            "#000000"
+            "#060607",
+            "#060607"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#D71921 ",
-            "#D71921 "
+            "#0038375a",
+            "#0038375a"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "#00000000",
             "#00000000"
         ],
         "SPOILER_REVEALED_BACKGROUND": [
-            "#1B1B1D",
-            "#1B1B1D"
+            "#00201f",
+            "#00201f"
         ],
         "STATUS_DANGER_BACKGROUND": [
-            "#D71921 ",
+            "#fb4934",
             "#9d0006"
         ],
         "STATUS_DANGER_TEXT": [
-            "#D71921 ",
-            "#D71921 "
+            "#83a598",
+            "#076678"
         ],
         "STATUS_POSITIVE_BACKGROUND": [
-            "#D71921 ",
-            "#D71921 "
+            "#3bb8ba",
+            "#3bb8ba"
         ],
         "STATUS_POSITIVE_TEXT": [
-            "#D71921 ",
-            "#D71921 "
+            "#affffe",
+            "#affffe"
         ],
         "STATUS_WARNING_BACKGROUND": [
-            "#D71921 ",
-            "#D71921 "
+            "#9cf0f0",
+            "#9cf0f0"
         ],
         "STATUS_WARNING_TEXT": [
             "#000000",
@@ -345,6 +345,7 @@
         ]
   
     },
+    
     "rawColors": {
         "PRIMARY_100": "#D71921",
         "PRIMARY_130": "#f1f1f1",
